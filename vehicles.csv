@@ -1,0 +1,4 @@
+vehicle_id,capacity_liters,depot_latitude,depot_longitude,available
+VEH-01,1200,12.975,77.595,True
+VEH-02,1200,12.975,77.595,True
+VEH-03,1200,12.975,77.595,True

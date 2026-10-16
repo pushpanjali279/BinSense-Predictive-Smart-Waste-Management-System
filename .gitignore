@@ -1,0 +1,37 @@
+# ── Python ──────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual Environment ────────────────────────────
+venv/
+.venv/
+env/
+
+# ── Cache (large OSMnx/NetworkX JSON cache files) ──
+cache/
+
+# ── IDE / Editor ───────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── OS ─────────────────────────────────────────────
+desktop.ini
+ehthumbs.db
+
+# ── Streamlit ──────────────────────────────────────
+.streamlit/
+
+# ── Misc ───────────────────────────────────────────
+*.log
+.env
